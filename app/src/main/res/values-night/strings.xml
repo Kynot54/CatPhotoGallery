@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyCats</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+    <string name="map">Map</string>
+
+    <string name="newest">Recent Cat Pics</string>
+    <string name="oldest">Oldest Cat Pics</string>
+    <string name="quantity">Number of Cats</string>
+
+    <string name="age">Age</string>
+    <string name="myCat">Is it My Cat?</string>
+
+    <string name="sort_youngest">Age(Youngest to Oldest)</string>
+    <string name="sort_oldest">Age(Oldest to Youngest)</string>
+    <string name="sort_alphabetical">Title (A-Z)</string>
+    <string name="sort_rAlphabetical">Title (Z-A)</string>
+
+
+    <string name="recommendations">Recommendations</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="lorem_ipsum">Loren Ipsum</string>
+</resources>
